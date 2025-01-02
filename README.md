@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Khoi Pham
+- 👋 Hello, @khoip23
 - 👀 I have a strong passion for .NET technology
 - 🌱 I'm currently studying at FPT Polytechnic
 - 💞️ I always want to learn and work on projects in the field of information technology

@@ -1,0 +1,5 @@
+- 👋 Hello, I'm Khoi Pham
+- 👀 I have a strong passion for .NET technology
+- 🌱 I'm currently studying at FPT Polytechnic
+- 💞️ I always want to learn and work on projects in the field of information technology
+- 📫 You can contact me at khoimap2307@gmail.com. Let's connect together and create something amazing!

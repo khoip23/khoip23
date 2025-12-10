@@ -1,5 +1,5 @@
 - 👋 Hello, I'm @khoip23
 - 👀 I have a strong passion for .NET technology. C# programming language and .NET CORE technology
-- 🌱 I'm currently majoring in software development at FPT Polytechnic.
+- 🌱 I'm currently majoring in software development at FPT.
 - 💞️ I always want to learn and work on projects in the field of information technology
 - 📫 You can contact me at khoimap2307@gmail.com. Let's connect together and create something amazing!

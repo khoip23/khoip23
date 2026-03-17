@@ -1,5 +1,5 @@
 - 👋 Hello, I'm @khoip23
-- 👀 I have a strong passion for .NET technology. C# programming language and .NET CORE technology
-- 🌱 I'm currently majoring in software development at FPT.
+- 👀 I have a strong passion for .NET technology and ReactJS. C# and Javascript programming language and .NET CORE technology, ReactJS 
+- 🌱 I'm currently majoring in software development.
 - 💞️ I always want to learn and work on projects in the field of information technology
 - 📫 You can contact me at khoiph.23@gmail.com. Let's connect together and create something amazing!
